@@ -22,8 +22,8 @@ type PageProps = {
         cover: ChildImageSharp
       }[]
     }
-    aboutUs: ChildImageSharp
-    instagram: ChildImageSharp
+    //aboutUs: ChildImageSharp
+    //instagram: ChildImageSharp
   }
 }
 
