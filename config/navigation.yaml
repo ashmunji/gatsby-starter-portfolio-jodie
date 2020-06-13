@@ -1,5 +1,5 @@
-- name: "Projects"
-  link: "/projects"
+- name: "Blog"
+  link: "https://blog.spacenarrative.com/"
 - name: "Instagram"
   link: "https://www.instagram.com/ashwinimunji/"
 - name: "About"

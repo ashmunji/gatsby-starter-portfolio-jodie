@@ -64,12 +64,9 @@ const Area = styled(animated.div)`
     grid-template-rows: repeat(6, 50vw);
 
     grid-template-areas:
-      'first-project'
-      'about-us'
       'three-projects'
       'three-projects'
       'three-projects'
-      'instagram';
   }
 `
 
