@@ -52,11 +52,9 @@ const Area = styled(animated.div)`
     grid-template-rows: repeat(5, 38vw);
 
     grid-template-areas:
-      'first-project about-us'
       'three-projects three-projects'
       'three-projects three-projects'
       'three-projects three-projects'
-      'instagram instagram';
   }
 
   @media (max-width: ${(props) => props.theme.breakpoints[0]}) {
