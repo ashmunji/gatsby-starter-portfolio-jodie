@@ -11,11 +11,11 @@ module.exports = {
   siteDescription: '.... hello world2',
   author: 'AshwiniMunji', // Author for schema.org JSONLD
 
-  // siteFBAppID: '123456789', // Facebook App ID - Optional
-  //userTwitter: '@jodie', // Twitter Username
-  //ogSiteName: 'jodie', // Facebook Site Name
+  siteFBAppID: '123456789', // Facebook App ID - Optional
+  userTwitter: '@jodie', // Twitter Username
+  ogSiteName: 'jodie', // Facebook Site Name
   ogLanguage: 'en_US', // og:language
-  //googleAnalyticsID: 'UA-XXXXXX-X',
+  googleAnalyticsID: 'UA-XXXXXX-X',
 
   // Manifest and Progress color
   themeColor: '#db7436',
