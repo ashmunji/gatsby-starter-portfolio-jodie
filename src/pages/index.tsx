@@ -32,7 +32,7 @@ const Area = styled(animated.div)`
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 35vw 40vw 25vw;
   grid-template-areas:
-    'three-projects three-projects three-projects'
+    'first-project about-us about-us'
     'three-projects three-projects three-projects'
     'three-projects three-projects three-projects'
 
